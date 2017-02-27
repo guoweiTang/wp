@@ -1,7 +1,6 @@
-# wp
-wp是基于fis3解决方案
+# fis3-wp
+wp是基于fis3纯前端解决方案
 
-* 后端为Java＋Velocity
 * 采用less作为css处理器
 * 采用amd模块化开发方案
 * 采用npm管理第三方依赖
@@ -14,17 +13,17 @@ wp是基于fis3解决方案
 ### 全局安装vm
 
 ``` shell
-$ npm install vm -g
+$ npm install fis3-wp -g
 ```
 
 ### release模式
 * 默认的dev模式，用于本地调试，会编译velocity，模拟转发url。
 
 	``` shell
-	$ wp release
+	$ fis3-wp release
 	```
 * prod模式，用于生产环境上线，会添加md5戳，打包，合成精灵图，压缩。
 
 	``` shell
-	$ wp release prod
+	$ fis3-wp release prod
 	```
