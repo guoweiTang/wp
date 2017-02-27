@@ -1,6 +1,6 @@
 {
   "name": "fis3-wp",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "this is a fis3 build tool",
   "main": "index.js",
   "bin": {
