@@ -8,7 +8,9 @@ wp是基于fis3纯前端解决方案
 阅读本文档前，建议先阅读[fis3的文档](http://fis.baidu.com/fis3/docs/beginning/intro.html)，很多涉及到fis3的内容都没有提及，请查看相应的文档。
 
 
-## 目录结构
+## Contents
+
+```
 .
 |____common					//公共文件
 | |____static				//静态文件（不符合amd规范的js资源或其他静态资源）
@@ -45,8 +47,9 @@ wp是基于fis3纯前端解决方案
 |____package.json			
 |____README.md				
 .
+```
 
-## 使用
+## Usages
 
 ### 全局安装vm
 
