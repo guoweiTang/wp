@@ -1,0 +1,21 @@
+{
+  "name": "wp",
+  "version": "0.0.1",
+  "description": "this is a fis3 build tool",
+  "main": "index.js",
+  "bin": {
+    "wp": "bin/wp.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ice",
+  "license": "ISC",
+  "dependencies": {
+    "fis3": "3.4.0",
+    "fis-parser-babel-5.x": "^1.4.0",
+    "fis-parser-less": "^0.1.3",
+    "fis3-hook-amd": "^0.2.0",
+    "fis3-postpackager-loader": "^2.1.4"
+  }
+}
