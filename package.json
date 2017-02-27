@@ -1,5 +1,5 @@
 {
-  "name": "wp",
+  "name": "fis3-wp",
   "version": "0.0.1",
   "description": "this is a fis3 build tool",
   "main": "index.js",
