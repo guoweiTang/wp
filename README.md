@@ -1,4 +1,4 @@
-# normae
+# wp
 wp是基于fis3解决方案
 
 * 后端为Java＋Velocity
@@ -17,7 +17,7 @@ wp是基于fis3解决方案
 $ npm install vm -g
 ```
 
-### normae内置了3种release模式
+### release模式
 * 默认的dev模式，用于本地调试，会编译velocity，模拟转发url。
 
 	``` shell
