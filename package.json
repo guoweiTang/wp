@@ -1,6 +1,6 @@
 {
   "name": "fis3-wp",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "this is a fis3 build tool",
   "main": "index.js",
   "bin": {
@@ -15,6 +15,9 @@
   },
   "author": "ice",
   "license": "ISC",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
   "dependencies": {
     "fis-parser-babel-5.x": "^1.4.0",
     "fis-parser-less": "0.1.3",

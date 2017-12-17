@@ -1,5 +1,9 @@
 # fis3-wp
-wp是基于fis3纯前端解决方案
+- fis3-wp是基于fis3纯前端解决方案
+
+[![npm](https://img.shields.io/npm/v/fis3-wp.svg)](https://www.npmjs.com/package/fis3-wp)
+[![node](https://img.shields.io/node/v/fis3-wp.svg)](https://nodejs.org/en/)
+[![npm](https://img.shields.io/npm/dt/fis3-wp.svg)](https://www.npmjs.com/package/fis3-wp)
 
 * 采用less作为css处理器
 * 采用amd模块化开发方案
