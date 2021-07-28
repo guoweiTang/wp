@@ -1,5 +1,5 @@
 # fis3-wp
-- fis3-wp是基于fis3纯前端解决方案（已废弃）
+- fis3-wp是基于fis3纯前端解决方案（废弃）
 
 [![npm](https://img.shields.io/npm/v/fis3-wp.svg)](https://www.npmjs.com/package/fis3-wp)
 [![node](https://img.shields.io/node/v/fis3-wp.svg)](https://nodejs.org/en/)
